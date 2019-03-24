@@ -68,3 +68,8 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: corporate
 
+deploy:
+  type: git
+  repo: https://github.com/heyunli-ltd/heyunli-ltd.github.io
+  branch: published
+  message: 
