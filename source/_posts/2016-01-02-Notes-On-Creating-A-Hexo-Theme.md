@@ -9,7 +9,7 @@ thumbnail: https://s3.amazonaws.com/ptsteadman-images/hexo.png
 ---
 
 <div class="image-strip">
-{% img https://s3.amazonaws.com/ptsteadman-images/hexo.png  %}
+{% asset_img https://s3.amazonaws.com/ptsteadman-images/hexo.png  %}
 </div>
 
 ## Setup
